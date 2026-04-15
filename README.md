@@ -27,6 +27,19 @@ This project helps learners practice:
   - total price calculation
 - Asset image support with fallback icon
 
+## Screenshots
+
+Add your screenshots to `assets/screenshots/` with the filenames below.
+
+### Home
+![Home Screen](assets/screenshots/home.png)
+
+### Product Detail
+![Product Detail Screen](assets/screenshots/product_detail.png)
+
+### Cart
+![Cart Screen](assets/screenshots/cart.png)
+
 ## Tech Stack
 
 - Flutter SDK
