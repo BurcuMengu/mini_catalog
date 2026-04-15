@@ -31,14 +31,11 @@ This project helps learners practice:
 
 Add your screenshots to `assets/screenshots/` with the filenames below.
 
-### Home
-![Home Screen](assets/screenshots/home.png)
-
-### Product Detail
-![Product Detail Screen](assets/screenshots/product_detail.png)
-
-### Cart
-![Cart Screen](assets/screenshots/cart.png)
+<p align="center">
+  <img src="assets/screenshots/home.png" alt="Home Screen" width="30%" />
+  <img src="assets/screenshots/product_detail.png" alt="Product Detail Screen" width="30%" />
+  <img src="assets/screenshots/cart.png" alt="Cart Screen" width="30%" />
+</p>
 
 ## Tech Stack
 
